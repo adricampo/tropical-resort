@@ -1,6 +1,6 @@
 # Tropical Resort
 
-### Deploy link: [tropical-resort]()
+### Deploy link: [tropical-resort](https://tropical-resort.netlify.app)
 ![MainPage](./src/images/main-page.png)
 
 ## Introduction
